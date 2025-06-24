@@ -1,1 +1,1 @@
-# car-plate-recognition
+# license-plate-recognition
